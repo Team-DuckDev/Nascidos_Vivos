@@ -1,0 +1,3 @@
+echo data/raw/*.sql >> .gitignore
+echo data/raw/*.dbc >> .gitignore
+echo *.zip >> .gitignore
