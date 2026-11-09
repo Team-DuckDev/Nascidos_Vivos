@@ -1,0 +1,13 @@
+﻿;Amplitude;AIQ (Q3−Q1);Variância;Desvio padrão;Erro padrão;IC95% inf.;IC95% sup.;CV (%);Classificação do CV
+Peso ao nascer (g);6885,0;625,0;321302,85;566,84;1,5;3181,07;3186,96;17,8;Média dispersão
+Idade da mãe (anos);43,0;10,0;44,2;6,65;0,02;27,84;27,91;23,85;Média dispersão
+Semanas de gestação;26,0;2,0;5,55;2,36;0,01;38,07;38,1;6,19;Baixa dispersão
+Consultas de pré-natal;53,0;3,0;10,04;3,17;0,01;9,45;9,48;33,48;Alta dispersão
+Apgar 1º minuto;10,0;1,0;1,42;1,19;0,0;8,18;8,2;14,57;Baixa dispersão
+Apgar 5º minuto;10,0;0,0;0,59;0,77;0,0;9,02;9,03;8,55;Baixa dispersão
+Gestações anteriores;96,0;2,0;2,04;1,43;0,0;1,33;1,35;106,46;Alta dispersão
+Filhos vivos anteriores;30,0;2,0;1,38;1,17;0,0;1,07;1,08;109,42;Alta dispersão
+Filhos mortos anteriores;26,0;0,0;0,4;0,64;0,0;0,31;0,32;204,0;Alta dispersão
+Partos vaginais anteriores;77,0;1,0;1,34;1,16;0,0;0,65;0,66;176,27;Alta dispersão
+Partos cesáreos anteriores;30,0;1,0;0,56;0,75;0,0;0,48;0,48;155,81;Alta dispersão
+Idade do pai (anos);65,0;11,0;60,85;7,8;0,07;32,66;32,93;23,79;Média dispersão
